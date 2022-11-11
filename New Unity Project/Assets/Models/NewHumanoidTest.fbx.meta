@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 29cc154d5646fc247b67483f67b43051
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -7088811405012562203
+    second: Armature|0
+  - first:
+      74: -4324032767077338959
+    second: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+      \u0432\u043B\u0435\u0432\u043E"
+  - first:
+      74: 4408968770108395806
+    second: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+      \u0432\u043F\u0435\u0440\u0435\u0434"
+  - first:
+      74: -1919075035409688481
+    second: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+      \u0432\u043F\u0440\u0430\u0432\u043E"
+  - first:
+      74: -7803648804317671444
+    second: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+      \u043D\u0430\u0437\u0430\u0434"
+  - first:
+      74: -4391490235204562892
+    second: "Armature|\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u043B\u0435\u0432\u044B\u0439
+      \u0448\u0430\u0433"
+  - first:
+      74: 5966885682561914880
+    second: "Armature|\u043F\u0440\u0435\u0434\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439
+      \u043B\u0435\u0432\u044B\u0439 \u0448\u0430\u0433"
+  - first:
+      74: 2310684481103993341
+    second: "Armature|\u043F\u0440\u0435\u0434\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439
+      \u043F\u0440\u0430\u0432\u044B\u0439 \u0448\u0430\u0433"
+  - first:
+      74: 8789105370322062492
+    second: "Armature|\u0440\u0430\u0437\u0432\u043E\u0440\u043E\u0442 \u043B\u0435\u0432\u0430\u044F
+      \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F"
+  - first:
+      74: 164118746333409948
+    second: "Armature|\u0440\u0430\u0437\u0432\u043E\u0440\u043E\u0442 \u043F\u0440\u0430\u0432\u0430\u044F
+      \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F"
+  - first:
+      74: 1300699058737771387
+    second: "Armature|\u0441\u0442\u043E\u0438\u0442"
+  - first:
+      74: 8377360272866332422
+    second: "Armature|\u0442\u0435\u0441\u0442"
+  - first:
+      74: 3840487122684195686
+    second: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043B\u0435\u0432\u0430\u044F
+      \u0432\u043F\u0435\u0440\u0435\u0434"
+  - first:
+      74: -4023098395472515532
+    second: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+      \u0432\u043B\u0435\u0432\u043E \u043B\u0435\u0432\u0430\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+  - first:
+      74: -1950540034563865685
+    second: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+      \u0432\u043F\u0440\u0430\u0432\u043E \u043B\u0435\u0432\u0430\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+  - first:
+      74: 7488445216421389713
+    second: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043F\u0440\u0430\u0432\u0430\u044F
+      \u0432\u043F\u0435\u0440\u0435\u0434"
+  - first:
+      74: -7336972576004846210
+    second: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u0442\u0435\u0441\u0442"
+  - first:
+      74: 6196085986468362627
+    second: "Armature|\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u043F\u0440\u0430\u0432\u044B\u0439
+      \u0448\u0430\u0433"
+  - first:
+      74: 1369585728530438794
+    second: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+      \u0432\u043B\u0435\u0432\u043E \u043F\u0440\u0430\u0432\u0430\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+  - first:
+      74: 1528493811722063182
+    second: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+      \u0432\u043F\u0440\u0430\u0432\u043E \u043F\u0440\u0430\u0432\u0430\u044F \u0432\u043F\u0435\u0440\u0435"
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Armature|\u043D\u0430\u0447\u0430\u043B\u043E
+      \u0445\u043E\u0434\u044C\u0431\u044B \u0432\u043B\u0435\u0432\u043E' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'\u041F\u043E\u0437\u0432\u043E\u043D\u043E\u043A1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+      \u0432\u043F\u0440\u0430\u0432\u043E' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'\u041F\u043E\u0437\u0432\u043E\u043D\u043E\u043A1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'\u043B\u0435\u0432\u0430\u044F
+      \u043D\u043E\u0433\u0430 1' has translation animation that will be discarded.\n\t'\u043F\u0440\u0430\u0432\u0430\u044F
+      \u043D\u043E\u0433\u0430 1' has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|0
+      takeName: Armature|0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+        \u0432\u043B\u0435\u0432\u043E"
+      takeName: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+        \u0432\u043B\u0435\u0432\u043E"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+        \u0432\u043F\u0435\u0440\u0435\u0434"
+      takeName: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+        \u0432\u043F\u0435\u0440\u0435\u0434"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+        \u0432\u043F\u0440\u0430\u0432\u043E"
+      takeName: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+        \u0432\u043F\u0440\u0430\u0432\u043E"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+        \u043D\u0430\u0437\u0430\u0434"
+      takeName: "Armature|\u043D\u0430\u0447\u0430\u043B\u043E \u0445\u043E\u0434\u044C\u0431\u044B
+        \u043D\u0430\u0437\u0430\u0434"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u043B\u0435\u0432\u044B\u0439
+        \u0448\u0430\u0433"
+      takeName: "Armature|\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439
+        \u043B\u0435\u0432\u044B\u0439 \u0448\u0430\u0433"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u043F\u0440\u0430\u0432\u044B\u0439
+        \u0448\u0430\u0433"
+      takeName: "Armature|\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439
+        \u043F\u0440\u0430\u0432\u044B\u0439 \u0448\u0430\u0433"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u043F\u0440\u0435\u0434\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439
+        \u043B\u0435\u0432\u044B\u0439 \u0448\u0430\u0433"
+      takeName: "Armature|\u043F\u0440\u0435\u0434\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439
+        \u043B\u0435\u0432\u044B\u0439 \u0448\u0430\u0433"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u043F\u0440\u0435\u0434\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439
+        \u043F\u0440\u0430\u0432\u044B\u0439 \u0448\u0430\u0433"
+      takeName: "Armature|\u043F\u0440\u0435\u0434\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439
+        \u043F\u0440\u0430\u0432\u044B\u0439 \u0448\u0430\u0433"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0440\u0430\u0437\u0432\u043E\u0440\u043E\u0442 \u043B\u0435\u0432\u0430\u044F
+        \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F"
+      takeName: "Armature|\u0440\u0430\u0437\u0432\u043E\u0440\u043E\u0442 \u043B\u0435\u0432\u0430\u044F
+        \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0440\u0430\u0437\u0432\u043E\u0440\u043E\u0442 \u043F\u0440\u0430\u0432\u0430\u044F
+        \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F"
+      takeName: "Armature|\u0440\u0430\u0437\u0432\u043E\u0440\u043E\u0442 \u043F\u0440\u0430\u0432\u0430\u044F
+        \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u044F\u044F"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0441\u0442\u043E\u0438\u0442"
+      takeName: "Armature|\u0441\u0442\u043E\u0438\u0442"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0442\u0435\u0441\u0442"
+      takeName: "Armature|\u0442\u0435\u0441\u0442"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043B\u0435\u0432\u0430\u044F
+        \u0432\u043F\u0435\u0440\u0435\u0434"
+      takeName: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043B\u0435\u0432\u0430\u044F
+        \u0432\u043F\u0435\u0440\u0435\u0434"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+        \u0432\u043B\u0435\u0432\u043E \u043B\u0435\u0432\u0430\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+      takeName: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+        \u0432\u043B\u0435\u0432\u043E \u043B\u0435\u0432\u0430\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+        \u0432\u043B\u0435\u0432\u043E \u043F\u0440\u0430\u0432\u0430\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+      takeName: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+        \u0432\u043B\u0435\u0432\u043E \u043F\u0440\u0430\u0432\u0430\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+        \u0432\u043F\u0440\u0430\u0432\u043E \u043B\u0435\u0432\u0430\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+      takeName: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+        \u0432\u043F\u0440\u0430\u0432\u043E \u043B\u0435\u0432\u0430\u044F \u0432\u043F\u0435\u0440\u0435\u0434"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+        \u0432\u043F\u0440\u0430\u0432\u043E \u043F\u0440\u0430\u0432\u0430\u044F
+        \u0432\u043F\u0435\u0440\u0435"
+      takeName: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043D\u0430\u043A\u043B\u043E\u043D
+        \u0432\u043F\u0440\u0430\u0432\u043E \u043F\u0440\u0430\u0432\u0430\u044F
+        \u0432\u043F\u0435\u0440\u0435"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043F\u0440\u0430\u0432\u0430\u044F
+        \u0432\u043F\u0435\u0440\u0435\u0434"
+      takeName: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u043F\u0440\u0430\u0432\u0430\u044F
+        \u0432\u043F\u0435\u0440\u0435\u0434"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u0442\u0435\u0441\u0442"
+      takeName: "Armature|\u0445\u043E\u0434\u044C\u0431\u0430 \u0442\u0435\u0441\u0442"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: "\u041E\u0441\u043D\u043E\u0432\u0430"
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043B\u0435\u0432\u0430\u044F \u043D\u043E\u0433\u0430 1"
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043F\u0440\u0430\u0432\u0430\u044F \u043D\u043E\u0433\u0430 1"
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043B\u0435\u0432\u0430\u044F \u043D\u043E\u0433\u0430 2"
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043F\u0440\u0430\u0432\u0430\u044F \u043D\u043E\u0433\u0430 2"
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043B\u0435\u0432\u0430\u044F \u0441\u0442\u0443\u043F\u043D\u044F"
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043F\u0440\u0430\u0432\u0430\u044F \u0441\u0442\u0443\u043F\u043D\u044F"
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A2"
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A3"
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u0448\u0435\u044F 1"
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u0448\u0435\u044F 2"
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043B\u0435\u0432\u043E\u0435 \u043F\u043B\u0435\u0447\u043E"
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043F\u0440\u0430\u0432\u043E\u0435 \u043F\u043B\u0435\u0447\u043E"
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043B\u0435\u0432\u043E\u0435 \u043F\u0440\u0435\u0434\u043F\u043B\u0435\u0447\u044C\u0435"
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043F\u0440\u0430\u0432\u043E\u0435 \u043F\u0440\u0435\u0434\u043F\u043B\u0435\u0447\u044C\u0435"
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043B\u0435\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435"
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043F\u0440\u0430\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435"
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u0433\u043E\u043B\u043E\u0432\u0430"
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A4"
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043F\u0440\u0430\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.001"
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u043B\u0435\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.001"
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: NewHumanoidTest(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: NewHumanoidTest(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Armature
+      parentName: NewHumanoidTest(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: "\u041E\u0441\u043D\u043E\u0432\u0430"
+      parentName: Armature
+      position: {x: 9.549563e-19, y: 0.0013609147, z: 0.03270125}
+      rotation: {x: 0.9786149, y: 0.00000007356452, z: -0.00000034998052, w: -0.20570084}
+      scale: {x: 1, y: 1, z: 1.0000011}
+    - name: "\u041F\u043E\u0437\u0432\u043E\u043D\u043E\u043A1"
+      parentName: "\u041E\u0441\u043D\u043E\u0432\u0430"
+      position: {x: -9.072704e-17, y: 0.0014867316, z: -5.0293065e-11}
+      rotation: {x: -0.83743787, y: 0.00000013030431, z: 0.00000039932246, w: 0.5465325}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A2"
+      parentName: "\u041F\u043E\u0437\u0432\u043E\u043D\u043E\u043A1"
+      position: {x: -1.3552527e-22, y: 0.0069528967, z: 2.8421735e-16}
+      rotation: {x: 0.00000001490119, y: 0.000000119209226, z: 1.2434868e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A3"
+      parentName: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A2"
+      position: {x: -1.7445023e-22, y: 0.0056178365, z: -1.0658141e-16}
+      rotation: {x: -1.7764788e-15, y: -0.000000119209254, z: -2.763445e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A4"
+      parentName: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A3"
+      position: {x: 3.3881316e-22, y: 0.00664214, z: -3.5525462e-17}
+      rotation: {x: -3.5526917e-15, y: 0.000000119209254, z: -3.1657753e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043B\u0435\u0432\u043E\u0435 \u043F\u043B\u0435\u0447\u043E"
+      parentName: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A4"
+      position: {x: -1.21114746e-23, y: 0.0060201953, z: -3.5527135e-16}
+      rotation: {x: 0.00000005553199, y: -0.000000057071905, z: 0.721038, w: 0.69289553}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043B\u0435\u0432\u043E\u0435 \u043F\u0440\u0435\u0434\u043F\u043B\u0435\u0447\u044C\u0435"
+      parentName: "\u043B\u0435\u0432\u043E\u0435 \u043F\u043B\u0435\u0447\u043E"
+      position: {x: -6.332981e-10, y: 0.0100652585, z: -5.484502e-16}
+      rotation: {x: -0.000000004979417, y: -0.00000014839954, z: -0.028719645, w: 0.99958754}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: "\u043B\u0435\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435"
+      parentName: "\u043B\u0435\u0432\u043E\u0435 \u043F\u0440\u0435\u0434\u043F\u043B\u0435\u0447\u044C\u0435"
+      position: {x: 3.3527647e-10, y: 0.015132788, z: 5.684342e-16}
+      rotation: {x: -0.0000000072968547, y: -0.00000020391282, z: -0.008478077, w: 0.99996406}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: "\u043B\u0435\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.001"
+      parentName: "\u043B\u0435\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435"
+      position: {x: 2.980223e-10, y: 0.01667126, z: 7.105427e-16}
+      rotation: {x: 0.0000000143775445, y: 0.000000041188557, z: 0.017457336, w: 0.99984765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043B\u0435\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.001_end"
+      parentName: "\u043B\u0435\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.001"
+      position: {x: -0, y: 0.0047774795, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u0448\u0435\u044F 1"
+      parentName: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A4"
+      position: {x: -1.21114746e-23, y: 0.0060201953, z: -3.5527135e-16}
+      rotation: {x: 5.3290705e-15, y: -7.105637e-15, z: 1.5882321e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u0448\u0435\u044F 2"
+      parentName: "\u0448\u0435\u044F 1"
+      position: {x: -4.6785498e-23, y: 0.0033084797, z: 7.105427e-17}
+      rotation: {x: 1.776235e-15, y: -0.00000011920924, z: -7.4115415e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u0433\u043E\u043B\u043E\u0432\u0430"
+      parentName: "\u0448\u0435\u044F 2"
+      position: {x: -1.490778e-21, y: 0.0049512098, z: -1.4210562e-16}
+      rotation: {x: -0.000000014901204, y: 0.00000011920905, z: -1.8296508e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u0433\u043E\u043B\u043E\u0432\u0430_end"
+      parentName: "\u0433\u043E\u043B\u043E\u0432\u0430"
+      position: {x: -0, y: 0.011175377, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043F\u0440\u0430\u0432\u043E\u0435 \u043F\u043B\u0435\u0447\u043E"
+      parentName: "\u043F\u043E\u0437\u0432\u043E\u043D\u043E\u043A4"
+      position: {x: -1.21114746e-23, y: 0.0060201953, z: -3.5527135e-16}
+      rotation: {x: 0.00000024185925, y: 0.00000023438668, z: -0.7230093, w: 0.6908383}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: "\u043F\u0440\u0430\u0432\u043E\u0435 \u043F\u0440\u0435\u0434\u043F\u043B\u0435\u0447\u044C\u0435"
+      parentName: "\u043F\u0440\u0430\u0432\u043E\u0435 \u043F\u043B\u0435\u0447\u043E"
+      position: {x: 7.4506144e-11, y: 0.009662964, z: -1.811884e-15}
+      rotation: {x: -0.000000019451733, y: -0.000000011818269, z: 0.03490312, w: 0.9993907}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: "\u043F\u0440\u0430\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435"
+      parentName: "\u043F\u0440\u0430\u0432\u043E\u0435 \u043F\u0440\u0435\u0434\u043F\u043B\u0435\u0447\u044C\u0435"
+      position: {x: -2.9802297e-10, y: 0.015549347, z: 1.5987211e-15}
+      rotation: {x: -0.0000000023369944, y: 0.00000011437375, z: 0.0035416887, w: 0.99999374}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: "\u043F\u0440\u0430\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.001"
+      parentName: "\u043F\u0440\u0430\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435"
+      position: {x: -5.960455e-10, y: 0.016914044, z: 4.2632563e-16}
+      rotation: {x: 0.000000013731153, y: 0.000000077939205, z: -0.015543516, w: 0.99987924}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043F\u0440\u0430\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.001_end"
+      parentName: "\u043F\u0440\u0430\u0432\u043E\u0435 \u0437\u0430\u043F\u044F\u0441\u0442\u044C\u0435.001"
+      position: {x: -0, y: 0.004777475, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043B\u0435\u0432\u0430\u044F \u043D\u043E\u0433\u0430 1"
+      parentName: "\u041E\u0441\u043D\u043E\u0432\u0430"
+      position: {x: -0.00484459, y: 0.0016415322, z: 0.0003519557}
+      rotation: {x: 0.46151114, y: 0.38180348, z: 0.29401344, w: 0.74484205}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: "\u043B\u0435\u0432\u0430\u044F \u043D\u043E\u0433\u0430 2"
+      parentName: "\u043B\u0435\u0432\u0430\u044F \u043D\u043E\u0433\u0430 1"
+      position: {x: -2.1877042e-10, y: 0.012580552, z: -2.6426505e-11}
+      rotation: {x: 0.013186749, y: -0.0000001841468, z: -0.008406165, w: 0.99987775}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: "\u043B\u0435\u0432\u0430\u044F \u0441\u0442\u0443\u043F\u043D\u044F"
+      parentName: "\u043B\u0435\u0432\u0430\u044F \u043D\u043E\u0433\u0430 2"
+      position: {x: 9.8347636e-11, y: 0.015556443, z: 7.868351e-11}
+      rotation: {x: -0.34426016, y: 0.00000024641966, z: -0.5504939, w: 0.76055336}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043B\u0435\u0432\u0430\u044F \u0441\u0442\u0443\u043F\u043D\u044F_end"
+      parentName: "\u043B\u0435\u0432\u0430\u044F \u0441\u0442\u0443\u043F\u043D\u044F"
+      position: {x: -0, y: 0.010278222, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u043F\u0440\u0430\u0432\u0430\u044F \u043D\u043E\u0433\u0430 1"
+      parentName: "\u041E\u0441\u043D\u043E\u0432\u0430"
+      position: {x: 0.0048449114, y: 0.0016400466, z: 0.00034857867}
+      rotation: {x: 0.45761847, y: -0.38674003, z: -0.30021882, w: 0.7422171}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: "\u043F\u0440\u0430\u0432\u0430\u044F \u043D\u043E\u0433\u0430 2"
+      parentName: "\u043F\u0440\u0430\u0432\u0430\u044F \u043D\u043E\u0433\u0430
+        1"
+      position: {x: 3.7925105e-10, y: 0.012588561, z: -1.5299008e-10}
+      rotation: {x: 0.019594856, y: -0.00000014891728, z: 0.012017364, w: 0.9997358}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: "\u043F\u0440\u0430\u0432\u0430\u044F \u0441\u0442\u0443\u043F\u043D\u044F"
+      parentName: "\u043F\u0440\u0430\u0432\u0430\u044F \u043D\u043E\u0433\u0430
+        2"
+      position: {x: 2.9444264e-10, y: 0.01555461, z: 3.124856e-10}
+      rotation: {x: -0.335645, y: -0.0000003133436, z: 0.55627614, w: 0.76019686}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: "\u043F\u0440\u0430\u0432\u0430\u044F \u0441\u0442\u0443\u043F\u043D\u044F_end"
+      parentName: "\u043F\u0440\u0430\u0432\u0430\u044F \u0441\u0442\u0443\u043F\u043D\u044F"
+      position: {x: -0, y: 0.010263265, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
